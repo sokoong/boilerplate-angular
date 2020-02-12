@@ -24,8 +24,5 @@
     "gulp-rename": "^2.0.0",
     "gulp-uglify": "^3.0.2"
   },
-  "dependencies": {
-    "angular": "^1.7.9",
-    "lodash": "^4.17.15"
-  }
+  "dependencies": {}
 }
